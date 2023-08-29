@@ -71,14 +71,12 @@ Createdb();
 
 						<?php buttonElement("btn-read", "btn btn-primary", "<i class='fas fa-sync'></i>", "read",  "data-toggle='tooltip' data-placement='bottom' title='Read'"); ?>
 
-
 						<?php buttonElement("btn-update", "btn btn-light border", "<i class='fas fa-pen-alt'></i>", "update",  "data-toggle='tooltip' data-placement='bottom' title='Update'"); ?>
 
 						<?php buttonElement("btn-delete", "btn btn-danger", "<i class='fas fa-trash-alt'></i>", "delete",  "data-toggle='tooltip' data-placement='bottom' title='Delete'"); ?>
 					</div>
 				</form>
 			</div>
-
 
 			<!-- Boostrap Table -->
 			<div class="d-flex table-data">
@@ -107,7 +105,6 @@ Createdb();
 			</div>
 		</div>
 	</main>
-
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js" integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa" crossorigin="anonymous"></script>
