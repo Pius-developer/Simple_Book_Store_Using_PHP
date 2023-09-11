@@ -7,7 +7,6 @@ require_once ('php/component.php');
 Createdb();
 
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
